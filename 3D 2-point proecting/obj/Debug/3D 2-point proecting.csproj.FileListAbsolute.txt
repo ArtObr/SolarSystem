@@ -1,0 +1,36 @@
+c:\users\артем\documents\visual studio 2015\Projects\3D 2-point proecting\3D 2-point proecting\bin\Debug\3D 2-point proecting.exe.config
+c:\users\артем\documents\visual studio 2015\Projects\3D 2-point proecting\3D 2-point proecting\bin\Debug\3D 2-point proecting.exe
+c:\users\артем\documents\visual studio 2015\Projects\3D 2-point proecting\3D 2-point proecting\bin\Debug\3D 2-point proecting.pdb
+c:\users\артем\documents\visual studio 2015\Projects\3D 2-point proecting\3D 2-point proecting\obj\Debug\3D 2-point proecting.csprojResolveAssemblyReference.cache
+c:\users\артем\documents\visual studio 2015\Projects\3D 2-point proecting\3D 2-point proecting\obj\Debug\_3D_2_point_proecting.Form1.resources
+c:\users\артем\documents\visual studio 2015\Projects\3D 2-point proecting\3D 2-point proecting\obj\Debug\_3D_2_point_proecting.Properties.Resources.resources
+c:\users\артем\documents\visual studio 2015\Projects\3D 2-point proecting\3D 2-point proecting\obj\Debug\3D 2-point proecting.csproj.GenerateResource.Cache
+c:\users\артем\documents\visual studio 2015\Projects\3D 2-point proecting\3D 2-point proecting\obj\Debug\3D 2-point proecting.exe
+c:\users\артем\documents\visual studio 2015\Projects\3D 2-point proecting\3D 2-point proecting\obj\Debug\3D 2-point proecting.pdb
+C:\Users\Артем\Desktop\Solar System\3D 2-point proecting\bin\Debug\3D 2-point proecting.exe.config
+C:\Users\Артем\Desktop\Solar System\3D 2-point proecting\obj\Debug\3D 2-point proecting.exe
+C:\Users\Артем\Desktop\Solar System\3D 2-point proecting\obj\Debug\3D 2-point proecting.pdb
+C:\Users\Артем\Desktop\Solar System\3D 2-point proecting\bin\Debug\3D 2-point proecting.exe
+C:\Users\Артем\Desktop\Solar System\3D 2-point proecting\bin\Debug\3D 2-point proecting.pdb
+C:\Users\Артем\Desktop\Solar System\3D 2-point proecting\obj\Debug\3D 2-point proecting.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Desktop\Solar System\3D 2-point proecting\obj\Debug\_3D_2_point_proecting.FormSS.resources
+C:\Users\Артем\Desktop\Solar System\3D 2-point proecting\obj\Debug\_3D_2_point_proecting.Properties.Resources.resources
+C:\Users\Артем\Desktop\Solar System\3D 2-point proecting\obj\Debug\3D 2-point proecting.csproj.GenerateResource.Cache
+C:\Users\Артем\Desktop\Крутые проекты\Solar System\3D 2-point proecting\bin\Debug\3D 2-point proecting.exe.config
+C:\Users\Артем\Desktop\Крутые проекты\Solar System\3D 2-point proecting\obj\Debug\3D 2-point proecting.exe
+C:\Users\Артем\Desktop\Крутые проекты\Solar System\3D 2-point proecting\obj\Debug\3D 2-point proecting.pdb
+C:\Users\Артем\Desktop\Крутые проекты\Solar System\3D 2-point proecting\bin\Debug\3D 2-point proecting.exe
+C:\Users\Артем\Desktop\Крутые проекты\Solar System\3D 2-point proecting\bin\Debug\3D 2-point proecting.pdb
+C:\Users\Артем\Desktop\Крутые проекты\Solar System\3D 2-point proecting\obj\Debug\3D 2-point proecting.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Desktop\Крутые проекты\Solar System\3D 2-point proecting\obj\Debug\_3D_2_point_proecting.FormSS.resources
+C:\Users\Артем\Desktop\Крутые проекты\Solar System\3D 2-point proecting\obj\Debug\_3D_2_point_proecting.Properties.Resources.resources
+C:\Users\Артем\Desktop\Крутые проекты\Solar System\3D 2-point proecting\obj\Debug\3D 2-point proecting.csproj.GenerateResource.Cache
+C:\Users\Artem\Desktop\Крутые проекты\Solar System(Graphic 3D, AI)\3D 2-point proecting\bin\Debug\3D 2-point proecting.exe.config
+C:\Users\Artem\Desktop\Крутые проекты\Solar System(Graphic 3D, AI)\3D 2-point proecting\obj\Debug\3D 2-point proecting.exe
+C:\Users\Artem\Desktop\Крутые проекты\Solar System(Graphic 3D, AI)\3D 2-point proecting\obj\Debug\3D 2-point proecting.pdb
+C:\Users\Artem\Desktop\Крутые проекты\Solar System(Graphic 3D, AI)\3D 2-point proecting\bin\Debug\3D 2-point proecting.exe
+C:\Users\Artem\Desktop\Крутые проекты\Solar System(Graphic 3D, AI)\3D 2-point proecting\bin\Debug\3D 2-point proecting.pdb
+C:\Users\Artem\Desktop\Крутые проекты\Solar System(Graphic 3D, AI)\3D 2-point proecting\obj\Debug\3D 2-point proecting.csprojResolveAssemblyReference.cache
+C:\Users\Artem\Desktop\Крутые проекты\Solar System(Graphic 3D, AI)\3D 2-point proecting\obj\Debug\_3D_2_point_proecting.FormSS.resources
+C:\Users\Artem\Desktop\Крутые проекты\Solar System(Graphic 3D, AI)\3D 2-point proecting\obj\Debug\_3D_2_point_proecting.Properties.Resources.resources
+C:\Users\Artem\Desktop\Крутые проекты\Solar System(Graphic 3D, AI)\3D 2-point proecting\obj\Debug\3D 2-point proecting.csproj.GenerateResource.Cache
